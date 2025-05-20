@@ -42,7 +42,7 @@ Note: To generate the loss landscape plot (e.g., Figure 8), you must:
 The experiment report has been uploaded to elearning.
 
 Github Repository:
-- \url{https://github.com/Dear-Cry/yzgjhdxf.git}
+- https://github.com/Dear-Cry/yzgjhdxf.git
 
 Google Drive Link:
-- \url{https://drive.google.com/drive/folders/1-gT9ZiGitG4lnURBLZ7YECFeWFZh1vSF?usp=sharing}
+- https://drive.google.com/drive/folders/1-gT9ZiGitG4lnURBLZ7YECFeWFZh1vSF?usp=sharing
