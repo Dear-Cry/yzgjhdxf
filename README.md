@@ -5,6 +5,7 @@ The code for this experiment consists of the following Python files, which have 
 - __init__.py
 - loaders.py # CIFAR10 data loading
 - cifar-10-python.tar.gz # CIFAR10 dataset
+
 To obtain the CIFAR10 dataset, run loaders.py in the data folder.
 
 ## Network
@@ -15,6 +16,7 @@ To obtain the CIFAR10 dataset, run loaders.py in the data folder.
 - train.py # Model training and visualization
 - test.py # Model testing and visualization
 - visualize.py # Visualization functions
+
 Training: Modify necessary parameters in train.py and execute it.
 The trained model will be saved as a binary file named best_model.pth by default.
 Testing: Run test.py, which loads the model from best_model.pth and performs testing.
@@ -32,6 +34,7 @@ MORE.pth (Section 2.2.5).
 - models # Model definitions
 - utils # Model initialization utilities
 - VGG_Loss_Landscape.py # Model training and visualization
+
 Run VGG_Loss_Landscape.py.
 Note: To generate the loss landscape plot (e.g., Figure 8), you must:
 1. Train models with different learning rates to obtain loss files.
